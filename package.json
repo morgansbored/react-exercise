@@ -7,7 +7,9 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^13.1.5",
+    "axios": "^0.24.0",
     "formik": "2.2.6",
+    "next": "^12.0.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -41,5 +43,17 @@
   },
   "devDependencies": {
     "cypress": "^7.1.0"
-  }
+  },
+  "description": "- The below technical guidance has been provided for the task - You should use the CRUK component library when building your form https://www.npmjs.com/package/@cruk/cruk-react-components - Please do not attempt to push to this repo, clone it and it and make sure your first commit has no changes. - Code must be clean and production ready. - Feel free to edit this readme or add a new readme file for any additional information, such as what you might do in the future to improve this product.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morgansbored/react-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morgansbored/react-exercise/issues"
+  },
+  "homepage": "http://localhost:3000/morgansbored/react-exercise"
 }
